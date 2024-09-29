@@ -20,7 +20,7 @@ body{
     font-family: 'Poppins',sans-serif;
     background: #1d002c;
     color: #fff;
-    /* overflow: hidden; */
+    overflow-x: hidden;
 } 
 header{
     padding: 25px 10%;
